@@ -1,0 +1,9 @@
+# Virtual Environment
+/GMT25_venv
+
+# NER dataset
+/data/NER_DATASET.tsv
+
+# Model result
+/model/ner-indobert-finetuned
+/model/ner-indobert-p2
